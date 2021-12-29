@@ -47,6 +47,7 @@
 	<profiles>
 		<profile>
 			<id>jdt</id>
+			<!-- uncomment the following to suppress compiler errors in Eclipse -->
 			<!-- <activation>
 				<property>
 					<name>m2e.version</name>
